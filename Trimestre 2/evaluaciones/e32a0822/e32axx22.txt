@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------------------
+Evaluación de Laboratorio III - 2do. Trimestre - (2/2) - Grupo A
+-------------------------------------------------------------------------------
+Apellido/s, Nombre/s:
+
+Número de Cuenta		:
+-------------------------------------------------------------------------------
+Enunciado:
+
+- Hacer una clase que cumpla la función de ser un servidor de datos de una base
+  labo32a22.mdb.
+
+- Una segunda clase será la encargada de actuar de interface de usuario para la
+  generación de las operaciones con dicha base.
+
+- Generar una tabla de nombre Activos, donde se incorporan los elementos de la
+  tabla Clientes que cumplan con la condición de estar activos.
+-------------------------------------------------------------------------------
+Nota:
+
+- Se puede utilizar el tutoria y el help.
+- Guardar los archivos de la evaluación en una carpeta e32axx22.
+- Los listados deben armarse de una selección de datos, que el usuario elige.
+-	Se representa en JTable.
+- Utilizar PreparedStatement().
+- Para crear tablas buscar en el Help o en el Tutorial CREATE TABLE.
+-------------------------------------------------------------------------------
+*/

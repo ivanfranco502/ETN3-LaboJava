@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------
+Evaluación de Laboratorio III - (1/2)
+------------------------------------------------------------------------------------------
+Tema: JDBC
+------------------------------------------------------------------------------------------
+Enunciado:
+---------
+Hacer un programa que permita simular el una elección, con las siguientes condiciones:
+
+- cantidad de partidos es de 5
+- entran en juego todas las provincias y la ciudad autónoma de buenos aires
+- electores es de 17 millones y deben ser distribuídos al azar en cada provincia.
+
+Se pide generar las tablas:
+
+- Partidos	(código, Nombre del Partido)
+- Provincias	(código, Nombre de Provincia, Cantidad de Electores)
+- Elección	(código de Provincia, código de Partido, Votos obtenidos)
+
+Generar las consultas:
+
+- votos totales por provincia
+- votos por partido en cada provincia
+- votos por partido en todo el país
+- votos por partido en cada provincia donde ganó
+
+------------------------------------------------------------------------------------------
+NOTAS: - Cuentan los votos en blanco y los votos impugnados.
+------------------------------------------------------------------------------------------
